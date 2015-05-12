@@ -1,0 +1,23 @@
+{
+  "name": "platform-qa-automation",
+  "version": "0.0.1",
+  "description": "Platform QA Automation",
+  "scripts": {
+    "start": "node ./app/server.js"
+  },
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "cookie-parser": "*",
+    "method-override": "*",
+    "errorhandler": "*",
+    "express-session": "latest",
+    "connect-redis": "latest",
+    "ejs": "~0.8.5",
+    "path": "*",
+    "config": "latest",
+    "async": "latest",
+    "underscore": "latest"
+
+  }
+}

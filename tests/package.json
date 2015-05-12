@@ -1,0 +1,19 @@
+{
+  "name": "idelog-tests",
+  "version": "0.0.1",
+  "description": "Tests",
+  "dependencies": {
+    "request": "latest",
+    "fs-extra": "latest",
+    "protractor-screenshot-reporter": "latest",
+    "jasmine-bail-fast": "latest",
+    "poplib": "latest",
+    "mailparser": "latest",
+    "q": "latest",
+    "async": "latest",
+    "underscore": "latest",
+    "winston": "latest",
+    "async": "latest",
+    "cheerio": "latest"
+  }
+}

@@ -1,0 +1,12 @@
+postgis:
+    build: ./postgis/
+
+web:
+    build: ./web/
+    command: npm start
+    links:
+        - postgis
+    ports:
+        - "80:8089"
+
+

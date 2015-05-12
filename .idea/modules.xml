@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/chrome-push.iml" filepath="$PROJECT_DIR$/.idea/chrome-push.iml" />
+      <module fileurl="file://$USER_HOME$/Projects/platform-qa/.idea/platform-qa.iml" filepath="$USER_HOME$/Projects/platform-qa/.idea/platform-qa.iml" />
     </modules>
   </component>
 </project>
